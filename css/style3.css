@@ -1,0 +1,432 @@
+.header-head{
+	    width:100%;
+	    height:100px;	   
+	    border-bottom:1px solid green;
+	
+}
+.header{
+	  /*background-color: red;*/
+	  height:100px;
+	  position:relative;
+}
+.header-child{
+    position:absolute;
+    top:20px;
+    left:50px;
+	   height:70px;
+	   width:166;
+/*   background:url(../images/logo.png) no-repeat;*/
+  /* position: absolute;
+   top:200px;*/
+}
+
+.header-child2{
+	position:absolute;
+    top:20px;
+    left:210px;
+	 	   height:46px;
+	   width:204;
+ /*  background:url(../images/logo1.png) no-repeat;*/
+ 
+
+}
+.header-child2 img{
+	 position:absolute;
+	 top:10px;
+	 left:30px;
+
+}
+.index-content-main-1{
+	 height:64px;
+	
+	 position:relative; 
+}
+.index-content-main-1 div:first-child{
+	     display:block;
+	     width:15px;
+	     height:16px;
+	     background:url(../images/icon9_1.png);
+	     position:absolute;
+	     top:20px;
+	     left:20px;
+}
+.index-content-main-1 div:nth-child(2){
+	 position:absolute;
+	     top:20px;
+	     left:45px;
+	     font-weight:700;
+	     color:black;    
+}
+.index-content-main-1 div:last-child{
+    line-height:55px;
+}
+.index-content-main-1 div:last-child a{
+	    color:blue;
+}
+.index-content-main-2{
+	   height:548px;
+	   background-color:#f9fbf6;
+	   position:relative;
+}
+.index-content-main-2-header{
+	   height:50px;
+	   /*background-color: red;*/
+	   /*line-height:50px;*/
+	   position:relative;
+}
+.index-content-main-2-header div:first-child{
+	    width:150px;
+	    height:50px;
+	     position:absolute;
+	     left:35px;
+	     top:5px;
+
+}
+.index-content-main-2-header div:nth-child(2){
+	    width:180px;
+	    height:50px; 
+	    position:absolute;
+	     left:430px;
+	     top:5px;
+}
+.index-content-main-2-header div:last-child{
+	    width:100px;
+	    height:50px;
+	    position:absolute;
+	    right:35px;
+	     top:5px;
+}
+.index-content-main-3{
+	   height:50px;
+	   /*background-color: red;*/
+	   /*line-height:50px;*/
+	   position:relative;
+}
+.index-content-main-3-main div:first-child{
+	    width:218px;
+	    height:35px;
+	     position:absolute;
+	     left:35px;
+	     top:5px;
+	     background:url(../images/regis1.png) no-repeat;
+
+}
+.index-content-main-3-main div:nth-child(2){
+	    width:453px;
+	    height:35px; 
+	    position:absolute;
+	     left:252px;
+	     top:5px;
+	      background:url(../images/regis2.png) no-repeat;
+}
+
+.index-content-main-3-main div:last-child{
+	    width:425px;
+	    height:35px;
+	    position:absolute;
+	    right:78px;
+	     top:5px;
+      background:url(../images/regis5.png) no-repeat;
+}
+.congratulation{
+	  width:400px;
+	  height:100px;
+	 /* background-color: grey;*/
+	  position:absolute;
+	  margin-top:100px;
+	  margin-left:300px;
+}
+.congratulation-left{
+	width:50px;
+	height:50px;
+	   background:url(../images/icon34.png) no-repeat;
+}
+.congratulation-center{
+	   position:absolute;
+	   top:10px;
+	   left:80px;
+}
+.congratulation-right{
+	   position:absolute;
+	   width:100px;
+	   height:40px;
+	   border-radius:10px;
+	   text-align:center;
+	   line-height:40px;
+	   top:10px;
+	   right:40px;
+	   background-color: #ff9000;
+}
+/*.erweima{
+	   width:150px;
+	   height:200px;
+	 background-color:red;
+	 position:absolute;
+	   top:332px;
+	   left:436px;
+}*/
+.erweima-1{
+	   width:150px;
+	   height:150px;
+	    background:url(../images/webchat.png);
+	   position:absolute;
+	   top:332px;
+	   left:436px;
+}
+.erweima-2{
+	   width:150px;
+	   height:30px;
+	   /*background-color: red;*/
+	    background:url(../images/text.png) no-repeat;
+	   position:absolute;
+	   top:500px;
+	   left:455px;
+}
+.index-content-footer {
+	   height:468px;
+	   background-color: red;
+	   position: relative;;
+
+}
+.index-content-footer-2{
+	  width:200px;
+	  height:397px;
+	
+	  position: absolute;
+	  right:15px;
+	  bottom:40px;
+	  border:1px solid grey;
+}
+.index-content-footer-2-1{
+	width:150px;
+	 height:145px;
+	  background:url(../images/webchat.png);
+	  position:absolute;
+	  top:28px;
+	  right:25px;
+}
+.index-content-footer-2-2{
+	 width:150px;
+	 height:18px;
+	  background:url(../images/regis7.png) no-repeat;
+	  position:absolute;
+	  top:200px;
+	  right:0;
+}
+.index-content-footer-2-3{
+	 width:201px;
+	 height:164px;
+	  background:url(../images/regis6.png) no-repeat;
+	  position:absolute;
+	 bottom:-10px;
+	 right:-2px;
+	 
+}
+.index-content-footer-5{
+	/*margin-top:74px;
+	margin-left:230px;*/
+	height:104px;
+}
+.index-content-footer-5-font ul{
+	   margin-left:200px;
+}
+.index-content-footer-5-font li{
+	 margin-right:30px;
+	margin-top:70px;
+}
+.index-content-footer-5-font span{
+	    width:2px;
+	    height:14px;
+	   background-color: grey;
+	    float:left;
+	    margin-right:30px;
+margin-top:70px;
+}
+/*最下面部分*/
+
+.footer{
+	border-top:1px solid #e3e3e3;
+     width:100%;
+   height:80px;
+   position:relative;
+
+}
+.footer-main{
+	width:1000px;
+    height:80px;
+    margin:0 auto;
+    background:url(../images/footer-img.jpg) no-repeat;	
+}
+
+
+
+
+/*最外层的盒子开始*/
+ #pwd-sign{
+   	   width:330px;
+   	   height:330px;
+   	   background-color:rgb(252,253,251);
+    margin:270px 30px;
+   	   position:absolute;
+   	   top:12%;
+   	   left:40%;
+   	   z-index:9999;
+   	   display:none;
+   }
+   #pwd-sign-header{
+      width:330;
+      height:50px;
+   }
+  #pwd-sign-header #password{
+  	  width:165px;
+  	  height:50px;
+  	  text-align:center;
+  	  line-height: 50px;
+  	  float:left;
+  } 
+    #pwd-sign-header #password:hover{
+    	   border-bottom:1px solid blue;
+    }
+
+#pwd-sign-header #telephon{
+	 width:165px;
+  	  height:50px;
+  	  	  text-align:center;
+  	  line-height: 50px;
+  	  float:left;
+}
+   #pwd-sign-header #telephon:hover{
+    	   border-bottom:1px solid blue;
+    }
+
+    #telnum{
+    	   width:200px;
+    	   height:30px;
+/*    	   background-color: red;*/
+    	   position:absolute;
+    	   top:80px;
+    	   left:20px;
+    }
+     #telnum input{
+     	     width:160px; 
+     	    /* 原本是200，由于给了padding-left40像素，要减去增加的部分 */ 
+     	     height:30px;
+     	     padding-left:40px;  
+    /*  使用padding让input里的字向右移，但是总的宽度要减少。 */
+     }
+        #pwd{
+    	   width:200px;
+    	   height:30px;
+    	  /* background-color: red;*/
+    	   position:absolute;
+    	   top:140px;
+    	   left:20px;
+    }
+   #pwd input{
+     	     width:160px; 
+     	    /* 原本是200，由于给了padding-left40像素，要减去增加的部分 */ 
+     	     height:30px;
+     	     padding-left:40px;  
+    /*  使用padding让input里的字向右移，但是总的宽度要减少。 */
+     }
+     #auto-sign{
+     	 position:absolute;
+     	 top:195px;
+     	 left:20px;
+     }
+     #forgetpwd{
+     	position:absolute;
+     	top:195px;
+     	right:36px;
+     }
+     #sign-in{
+     	width:330px;
+     	height:40px;
+     	border-radius: 10px;
+     	background-color:rgb(73,161,97);
+     	position:absolute;
+     	top:230px;
+     	text-align:center;
+     	line-height: 40px;
+     }
+     #sign-in button{
+     	  font-size:20px;
+     	  color:white;
+     	  background-color:rgb(73,161,97);
+     }
+     #zhuche{
+     	  position:absolute;
+     	  left:20px;
+     	  bottom:20px;
+     }
+   /* 最外层的盒子结束*/
+
+.show{
+	display:block;
+}
+
+/*灰色盒子开始*/
+    #huisehezi{
+ 	   width:100%;
+ 	   height:900px;
+ 	   position:absolute;
+ 	   z-index:990;
+ 	   background-color:rgba(191,191,191,0.5);
+       display:none;
+    }
+/*灰色盒子结束*/
+
+
+
+
+/*手机验证码登录开始*/
+  #pwd2{
+    	   width:200px;
+    	   height:30px;
+    	   position:absolute;
+    	   top:140px;
+    	   left:20px;
+    }
+   #pwd2 input{
+     	     width:80px; 
+     	    /* 原本是200，由于给了padding-left40像素，要减去增加的部分 */ 
+  height:30px;
+     	     padding-left:40px;
+    /*  使用padding让input里的字向右移，但是总的宽度要减少。 */
+ }
+     #pwd2-img{
+     	   width:80px;
+     	   height:30px;
+     	   background:url(../images/icon32.png) no-repeat;
+     	   position:absolute;
+     	   top:140px;
+     	   right:108px;
+     }
+     #unclear{
+     	   position:absolute;
+     	   top:148px;
+     	   right:7px;
+     }
+     #auto-sign{
+     	 position:absolute;
+     	 top:195px;
+     	 left:20px;
+     }
+     #forgetpwd{
+     	position:absolute;
+     	top:195px;
+     	right:36px;
+     }
+/*手机验证码结束*/
+
+
+
+
+
+
+
+
+
+
+
+

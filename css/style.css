@@ -1,0 +1,404 @@
+
+.header-head{
+	    width:100%;
+	    height:100px;	   
+	    border-bottom:1px solid green;
+	     position:relative;
+}
+.header{
+	  /*background-color: red;*/
+	  height:100px;
+	  position:relative;
+}
+.header-child{
+    position:absolute;
+    top:20px;
+    left:50px;
+	   height:70px;
+	   width:166;
+/*   background:url(../images/logo.png) no-repeat;*/
+  /* position: absolute;
+   top:200px;*/
+}
+
+.header-child2{
+	position:absolute;
+    top:20px;
+    left:210px;
+	 	   height:46px;
+	   width:204;
+ /*  background:url(../images/logo1.png) no-repeat;*/
+ 
+
+}
+.header-child2 img{
+	 position:absolute;
+	 top:10px;
+	 left:30px;
+
+}
+.index-content-main-1{
+	 height:64px;
+	
+	 position:relative; 
+}
+.index-content-main-1 div:first-child{
+	     display:block;
+	     width:15px;
+	     height:16px;
+	     background:url(../images/icon9_1.png);
+	     position:absolute;
+	     top:20px;
+	     left:20px;
+}
+.index-content-main-1 div:nth-child(2){
+	 position:absolute;
+	     top:20px;
+	     left:45px;
+	     font-weight:700;
+	     color:black;    
+}
+.index-content-main-1 div:last-child{
+    line-height:55px;
+}
+.index-content-main-1 div:last-child a{
+	    color:blue;
+}
+.index-content-main-2{
+	   height:548px;
+	   background-color:#f9fbf6;
+	   position:relative;
+}
+.index-content-main-2-header{
+	   height:50px;
+	   /*background-color: red;*/
+	   /*line-height:50px;*/
+	   position:relative;
+}
+.p-l{
+    padding-left:10px;
+}
+.index-content-main-2-header div:first-child{
+	    width:150px;
+	    height:50px;
+	     position:absolute;
+	     left:35px;
+	     top:5px;
+
+}
+.index-content-main-2-header div:nth-child(2){
+	    width:180px;
+	    height:50px; 
+	    position:absolute;
+	     left:430px;
+	     top:5px;
+}
+.index-content-main-2-header div:last-child{
+	    width:100px;
+	    height:50px;
+	    position:absolute;
+	    right:35px;
+	     top:5px;
+}
+.index-content-main-3{
+	   height:50px;
+	   /*background-color: red;*/
+	   /*line-height:50px;*/
+	   position:relative;
+}
+.index-content-main-3-main div:first-child{
+	    width:218px;
+	    height:35px;
+	     position:absolute;
+	     left:35px;
+	     top:5px;
+	     background:url(../images/regis1.png);
+
+}
+.index-content-main-3-main div:nth-child(2){
+	    width:453px;
+	    height:35px; 
+	    position:absolute;
+	     left:253px;
+	     top:5px;
+	      background:url(../images/regis3.png);
+}
+/*.index-content-main-3-main div:nth-child(3){
+	    width:180px;
+	    height:50px; 
+	    position:absolute;
+	     left:430px;
+	     top:5px;
+	      background:url(../images/regis1.png);
+}*/
+.index-content-main-3-main div:last-child{
+	    width:425px;
+	    height:35px;
+	    position:absolute;
+	    right:78px;
+	     top:5px;
+      background:url(../images/regis4.png);
+}
+
+.index-content-footer {
+	   height:468px;
+	/*   background-color: red;*/
+	   position: relative;
+
+}
+ .index-content-footer-1{
+ 	    position:relative;
+ 	    left:50px;
+ 	    width:550px;
+ 	    height:420px;
+ }
+
+  #indexForm .tel{
+    	position:relative;
+    	   width:600px;
+    	   height:40px;
+
+    }
+  #indexForm .pwd{
+    	position:relative;
+    	   width:600px;
+    	   height:40px;
+
+    }
+  #indexForm .repwd{
+    	position:relative;
+    	   width:600px;
+    	   height:40px;
+
+    }
+ #indexForm .email{
+    	position:relative;
+    	   width:600px;
+    	   height:40px;
+
+    }
+ #indexForm .img{
+    	position:relative;
+    	   width:600px;
+    	   height:40px;
+    }
+ .index-content-footer-1 .tel{
+           position:absolute;
+           top:30px;
+       font-size:20px;
+ } 
+   .index-content-footer-1 .tel img{
+   	    position:absolute;
+   	    left:350px;
+   	    bottom:10px;  	    
+   }
+  .index-content-footer-1 .tel input{
+  	   width:231px;
+  	   height:35px;
+  	   border:1px solid grey;
+  	   box-shadow:1px 1px 2px grey inset;
+  } 
+  .index-content-footer-1 .pwd{
+           position:absolute;
+           top:40px;
+           font-size:20px;
+ }  
+  .index-content-footer-1 .pwd img{
+  	  position:absolute;
+   	    left:350px;
+   	    bottom:10px;
+  }
+   .index-content-footer-1 .pwd input{
+   	     width:231px;
+  	   height:35px;
+  	   border:1px solid grey;
+  	      box-shadow:1px 1px 2px grey inset;
+   }
+  .index-content-footer-1 .repwd{
+           position:absolute;
+           top:60px;
+           font-size:20px;
+ } 
+   .index-content-footer-1 .repwd img{
+  	  position:absolute;
+   	    left:350px;
+   	    bottom:10px;
+  }
+   .index-content-footer-1 .repwd input{
+   	   width:231px;
+  	   height:35px;
+  	   border:1px solid grey;
+  	      box-shadow:1px 1px 2px grey inset;
+   }
+  .index-content-footer-1 .email{
+           position:absolute;
+           top:80px;
+           font-size:20px;
+ } 
+    .index-content-footer-1 .email img{
+  	  position:absolute;
+   	    left:350px;
+   	    bottom:10px;
+  }
+   .index-content-footer-1 .email input{
+   	     width:231px;
+  	   height:35px;
+  	   border:1px solid grey;
+  	      box-shadow:1px 1px 2px grey inset;
+   }
+  .index-content-footer-1 .img{
+           position:absolute;
+           top:95px;
+           font-size:20px;
+ } 
+    .index-content-footer-1 .img img{
+  	  position:absolute;
+   	    left:350px;
+   	    bottom:10px;
+  }
+   .index-content-footer-1 .img input{
+   	  width:134px;
+  	   height:35px;
+  	   border:1px solid grey;
+  	      box-shadow:1px 1px 2px grey inset;
+   }
+   .yanzhengma{
+   	   position:absolute;
+   	   top:252px;
+   	   left:268px;
+   }
+
+   .mustfollow{
+   	    width:280px;
+   	    height:20px;
+   	    position:absolute;
+   	   top:316px;
+   	    left:118px;
+   }
+     .zhuche input{
+     	   width:128px;
+     	   height:32px;
+     	   background-color:#ff9000;
+     	   position:absolute;
+     	   bottom:15px;
+     	   left:118px;
+     	   border-radius:10px;
+
+     }
+.index-content-footer-2{
+	  width:250px;
+	  height:397px;
+	
+	  position: absolute;
+	  right:15px;
+	  bottom:40px;
+	  border:1px solid grey;
+}
+.index-content-footer-2-1{
+	width:150px;
+	 height:145px;
+	  background:url(../images/webchat.png)no-repeat;
+	  position:absolute;
+	  top:28px;
+	  right:60px;
+}
+.index-content-footer-2-2{
+	 width:150px;
+	 height:18px;
+	  background:url(../images/regis7.png) no-repeat;
+	  position:absolute;
+	  top:200px;
+	  right:20px;
+}
+.index-content-footer-2-3{
+	 width:191px;
+	 height:164px;
+	  background:url(../images/regis6.png) no-repeat;
+	  position:absolute;
+	 bottom:-10px;
+	 right:35px;	 
+}
+.index-content-footer-5{
+	/*margin-top:74px;
+	margin-left:230px;*/
+	height:104px;
+}
+.index-content-footer-5-font ul{
+	   margin-left:200px;
+}
+.index-content-footer-5-font li{
+	 margin-right:30px;
+	margin-top:70px;
+}
+.index-content-footer-5-font span{
+	    width:2px;
+	    height:14px;
+	   background-color: grey;
+	    float:left;
+	    margin-right:30px;
+margin-top:70px;
+}
+
+.footer{
+	border-top:1px solid #e3e3e3;
+     width:100%;
+   height:80px;
+   position:relative;
+
+}
+.footer-main{
+	width:1000px;
+    height:80px;
+    margin:0 auto;
+    background:url(../images/footer-img.jpg) no-repeat;	
+}
+/*
+手机验证*/
+
+/*验证结束后的延时*/
+.yanshi{
+     width:250px;
+     height:250px;
+     position:absolute;
+     top:30%;
+     left:40%;
+     text-align:center;
+     line-height:250px;
+     font-size:20px;
+     color:red;
+     background-color: grey;
+     border-radius:20px;
+     display:none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

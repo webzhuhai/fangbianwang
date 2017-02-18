@@ -1,0 +1,305 @@
+.header-head{
+	    width:100%;
+	    height:100px;	   
+	    border-bottom:1px solid green;
+	
+}
+.header{
+	  /*background-color: red;*/
+	  height:100px;
+	  position:relative;
+}
+.header-child{
+    position:absolute;
+    top:20px;
+    left:50px;
+	   height:70px;
+	   width:166;
+/*   background:url(../images/logo.png) no-repeat;*/
+  /* position: absolute;
+   top:200px;*/
+}
+
+.header-child2{
+	position:absolute;
+    top:20px;
+    left:210px;
+	 	   height:46px;
+	   width:204;
+ /*  background:url(../images/logo1.png) no-repeat;*/
+ 
+
+}
+.header-child2 img{
+	 position:absolute;
+	 top:10px;
+	 left:30px;
+
+}
+
+.index-content-main-1{
+	 height:64px;
+	
+	 position:relative; 
+}
+.index-content-main-1 div:first-child{
+	     display:block;
+	     width:15px;
+	     height:16px;
+	     background:url(../images/icon9_1.png);
+	     position:absolute;
+	     top:20px;
+	     left:20px;
+}
+.index-content-main-1 div:nth-child(2){
+	 position:absolute;
+	     top:20px;
+	     left:45px;
+	     font-weight:700;
+	     color:black;    
+}
+.index-content-main-1 div:last-child{
+    line-height:55px;
+}
+.index-content-main-1 div:last-child a{
+	    color:blue;
+}
+.index-content-main-2{
+	width:998px;
+	   height:848px;
+	   background-color:#f9fbf6;
+	   position:relative;
+	   border:1px solid #e3e3e3;
+
+}
+.index-content-main-2-header{
+	   height:50px;
+	   /*background-color: red;*/
+	   /*line-height:50px;*/
+	   position:relative;
+}
+.index-content-main-2-header div:first-child{
+	    width:150px;
+	    height:50px;
+	     position:absolute;
+	     left:35px;
+	     top:5px;
+
+}
+.index-content-main-2-header div:nth-child(2){
+	    width:180px;
+	    height:50px; 
+	    position:absolute;
+	     left:430px;
+	     top:5px;
+}
+.index-content-main-2-header div:last-child{
+	    width:100px;
+	    height:50px;
+	    position:absolute;
+	    right:35px;
+	     top:5px;
+}
+.index-content-main-3{
+	   height:50px;
+	   /*background-color: red;*/
+	   /*line-height:50px;*/
+	   position:relative;
+}
+.index-content-main-3-main div:first-child{
+	    width:218px;
+	    height:35px;
+	     position:absolute;
+	     left:35px;
+	     top:5px;
+	     background:url(../images/regis1.png);
+
+}
+.index-content-main-3-main div:nth-child(2){
+	    width:453px;
+	    height:35px; 
+	    position:absolute;
+	     left:253px;
+	     top:5px;
+	      background:url(../images/regis2.png);
+}
+/*.index-content-main-3-main div:nth-child(3){
+	    width:180px;
+	    height:50px; 
+	    position:absolute;
+	     left:430px;
+	     top:5px;
+	      background:url(../images/regis1.png);
+}*/
+.index-content-main-3-main div:last-child{
+	    width:427px;
+	    height:35px;
+	    position:absolute;
+	    right:78px;
+	     top:5px;
+      background:url(../images/regis4.png);
+}
+
+.index-content-footer {
+	   height:468px;
+	/*   background-color: red;*/
+	   position: relative;;
+
+}
+ .index-content-footer-1{
+ 	    width:724px;
+ 	    height:174px;
+ 	    /*background-color: blue;*/
+ 	    position:absolute;
+ 	    top:20px;
+ 	    left:20px;
+ 	    border-bottom:1px dashed grey;
+ 	    
+ } 
+  .index-content-footer-1-2 input{
+  	  border:1px solid grey;
+  }
+.index-content-footer-1-1{
+  	   position:absolute;
+  	   top:10px;
+  	   left:119px;
+}
+.index-content-footer-1-2{
+	    position:absolute;
+	    top:40px;
+	    left:70px;
+	 
+}
+.index-content-footer-1-3{
+	 position:absolute;
+	 top:100px;
+	 left:119px;
+      
+}
+.index-content-footer-1-3 input{
+	width:160px;
+	height:30px;
+	border-radius:10px;
+	background-color:#ff9000; 
+}
+.index-content-footer-2{
+	  width:200px;
+	  height:397px;
+	
+	  position: absolute;
+	  right:15px;
+	  bottom:40px;
+	  border:1px solid grey;
+}
+.index-content-footer-2-1{
+	width:150px;
+	 height:145px;
+	  background:url(../images/webchat.png);
+	  position:absolute;
+	  top:28px;
+	  right:25px;
+}
+.index-content-footer-2-2{
+	 width:150px;
+	 height:18px;
+	  background:url(../images/regis7.png) no-repeat;
+	  position:absolute;
+	  top:200px;
+	  right:0;
+}
+.index-content-footer-2-3{
+	 width:201px;
+	 height:164px;
+	  background:url(../images/regis6.png) no-repeat;
+	  position:absolute;
+	 bottom:-10px;
+	 right:-2px;
+	 
+	 
+}
+.index-content-footer-3{
+	 	    width:600px;
+ 	    height:174px;
+ 	/*    background-color: blue;*/
+ 	    position:absolute;
+ 	    top:230px;
+ 	    left:125px;  
+}
+.index-content-footer-3-2{	
+     position:absolute;
+     left:15px;
+     bottom:100px;
+     width:180px;
+     height:40px;
+     border-radius:10px;
+     text-align:center;
+     line-height:40px;
+     font-size:20px;
+     color:red;
+     background-color:#efefef;
+}
+.index-content-footer-3-2 button{
+	display:block;
+	   width:130px;
+	   height:35px;
+	   text-align:center;
+	   line-height: 35px;
+	   background-color:#ebebeb; 
+	   border-radius:10px;
+}
+.index-content-footer-4{
+	  width:959px;
+	  height:276px;
+	  background:url(../images/footer_03.jpg);
+	  position: absolute;
+	  bottom:20px;
+	  left:20px;
+}
+.index-content-footer-5{
+	/*margin-top:74px;
+	margin-left:230px;*/
+	height:104px;
+}
+.index-content-footer-5-font ul{
+	   margin-left:200px;
+}
+.index-content-footer-5-font li{
+	 margin-right:30px;
+	margin-top:70px;
+}
+.index-content-footer-5-font span{
+	    width:2px;
+	    height:14px;
+	   background-color: grey;
+	    float:left;
+	    margin-right:30px;
+margin-top:70px;
+}
+/*最下面部分*/
+
+
+
+
+
+
+/*尾部开始*/
+.footer{
+	border-top:1px solid #e3e3e3;
+     width:100%;
+   height:90px;
+   position:relative;
+  	border-bottom:1px solid #ededed;
+}
+.footer-main{
+	width:1000px;
+    height:80px;
+    margin:0 auto;
+    background:url(../images/footer-img.jpg) no-repeat;	
+}
+
+/*尾部结束*/
+
+
+
+
+
